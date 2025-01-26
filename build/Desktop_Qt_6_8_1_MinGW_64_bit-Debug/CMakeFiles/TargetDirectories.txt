@@ -1,0 +1,8 @@
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/dpi_alu.dir
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Alu_GUI.dir
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/dpi_alu_autogen_timestamp_deps.dir
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/dpi_alu_autogen.dir
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Alu_GUI_autogen_timestamp_deps.dir
+E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Alu_GUI_autogen.dir

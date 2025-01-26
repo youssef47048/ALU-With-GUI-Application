@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Alu_GUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Alu_GUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Alu_GUI-Debug-a81d4fb045835f04c7fe.json",
+					"name" : "Alu_GUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Alu_GUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Alu_GUI_autogen-Debug-4ebfd691464cb3a2a0b0.json",
+					"name" : "Alu_GUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Alu_GUI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Alu_GUI_autogen_timestamp_deps-Debug-583354be6c9c2538c8be.json",
+					"name" : "Alu_GUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dpi_alu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dpi_alu-Debug-690e8af158ec4050bc84.json",
+					"name" : "dpi_alu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dpi_alu_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dpi_alu_autogen-Debug-a08009eb1fc8a310b858.json",
+					"name" : "dpi_alu_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dpi_alu_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dpi_alu_autogen_timestamp_deps-Debug-1a17f551b7b5d94e3d5a.json",
+					"name" : "dpi_alu_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "E:/projects/QT/Alu_GUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

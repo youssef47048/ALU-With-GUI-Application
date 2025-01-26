@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_dpi_alu_FILE E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/dpi_alu.dll)
+set(__QT_DEPLOY_TARGET_dpi_alu_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_dpi_alu_RUNTIME_DLLS E:/programmer_tools/qt/6.8.1/mingw_64/bin/Qt6Widgets.dll;E:/programmer_tools/qt/6.8.1/mingw_64/bin/Qt6Gui.dll;E:/programmer_tools/qt/6.8.1/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_Alu_GUI_FILE E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Alu_GUI.exe)
+set(__QT_DEPLOY_TARGET_Alu_GUI_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_Alu_GUI_RUNTIME_DLLS E:/projects/QT/Alu_GUI/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/dpi_alu.dll;E:/programmer_tools/qt/6.8.1/mingw_64/bin/Qt6Widgets.dll;E:/programmer_tools/qt/6.8.1/mingw_64/bin/Qt6Gui.dll;E:/programmer_tools/qt/6.8.1/mingw_64/bin/Qt6Core.dll)
