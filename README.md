@@ -41,7 +41,7 @@ Alu_GUI.exe  # Windows
 ```
 
 ## **Demo**
-![Demo Video](media/demo.mp4)
+![Demo Video](media/demo.mkv)
 
 
 
