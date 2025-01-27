@@ -38,7 +38,7 @@ Alu_GUI.exe  # Windows
 ```
 
 ## **Demo**
-![Demo Video](media/demo.mkv)
+[Watch the Demo Video](https://youssef47048.github.io/ALU-With-GUI-Application/)
 
 
 
