@@ -40,6 +40,8 @@ Replace the paths in CMakeLists.txt and ALU_TB with your own
 Alu_GUI.exe  # Windows
 ```
 
+## **Demo**
+![Demo Video](media/demo.mp4)
 
 
 
