@@ -16,7 +16,7 @@ A project that integrates a Verilog-based Arithmetic Logic Unit (ALU) with a Qt 
 
 ## Installation
 1. **Clone the Repository**:
-   ```bash
+```bash
    git clone https://github.com/your-username/ALU-GUI.git](https://github.com/youssef47048/ALU-With-GUI-Application.git
    cd ALU-With-GUI-Application
 ```
